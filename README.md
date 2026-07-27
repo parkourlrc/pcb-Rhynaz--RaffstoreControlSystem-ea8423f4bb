@@ -67,7 +67,7 @@ The firmware can be upgraded either over UART, USB or over-the-air (OTA) with HT
 
 ## License
 RaffstoreControlSystem - Web enabled relay board with hardware button support for easy smart home integration<br>
-Copyright (C) 2022 The Rhynaz
+Copyright (C) 2022 Elias*
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
